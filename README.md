@@ -1,5 +1,7 @@
 # Personal Identity Layer Template (PILT)
 
+## *Development has moved back to the [PILT](https://github.com/jack-indaboks/PILT) repository.*
+
 Use this repository as the starter Personal Identity Layer. Identity Layers are Markdown bundles that define the AI’s persona, guardrails, and default context. This layer stands on its own and can also be combined with a Team Identity Layer to form a blended Identity.
 
 > Looking for the Team Identity Layer template? Switch to the `Team` branch and read its README for guidance tailored to teams.
