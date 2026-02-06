@@ -1,5 +1,7 @@
 # Team Identity Layer Template (TILT)
 
+## *Development has moved back to the [TILT](https://github.com/jack-indaboks/TILT) repository.*
+
 Use this repository as the starter Team Identity Layer. Identity Layers are Markdown bundles that define the AI’s persona, guardrails, and default context. This Team Identity Layer stands on its own as a deployable agent identity and can also be combined with a Personal Identity Layer to form a blended identity.
 
 > Looking for the Personal Identity Layer template? Switch to the `personal` branch and read its README for guidance tailored to individual users.
